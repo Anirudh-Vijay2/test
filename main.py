@@ -1,6 +1,5 @@
 from instagrapi import Client
 from instagrapi.types import Usertag, Location
-import config
 from datetime import datetime, date
 import time
 from pytz import timezone 
